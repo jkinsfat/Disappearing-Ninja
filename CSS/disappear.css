@@ -1,4 +1,38 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+h1 {
+    margin-left: 5%;
+    text-align: left;
+}
+hr {
+    width: 90%;
+}
+ul {
+    list-style: none;
+    width: 90%;
+}
+li {
+    display: inline-block;
+    width: 23%;
+}
 img {
-    width: 200px;
-    height: 200px;
+    width: 100%;
+    display: inline-block;
+}
+h3 {
+    margin: 3%;
+}
+h4 {
+    margin: 3%;
+    color: red;
+}
+.restore {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 25%;
+    margin: auto;
 }
